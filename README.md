@@ -1,0 +1,2 @@
+# Bootcamp-Gostack-ReactNativeJsTypeScript-Challenges-10
+ This is BootCamp Rocketseat challenge number 10, an application was created in ReactNativeJS and Typescript using various technologies and concepts like product, order, favorites operations, Hooks(useCallBack, useEffect, useState, useMemo), Typescript, typing, Componentization, properties, Styled-components, State management, Icons with MaterialIcons, Axios and requests with the Fake API rest, Bottom tabs, searching , Unitary tests.
