@@ -65,3 +65,16 @@ Há uma dependência em package.json chamada json-server, também há um arquivo
     yarn json-server server.json -p 3333
  
 ```
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactNativeJsTypeScript-Challenges-10/blob/main/arts/Art%20Go%20Restaurant%20%20movbile%20(1).png)
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactNativeJsTypeScript-Challenges-10/blob/main/arts/Art%20Go%20Restaurant%20%20movbile%20(2).png)
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactNativeJsTypeScript-Challenges-10/blob/main/arts/Art%20Go%20Restaurant%20%20movbile%20(3).png)
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactNativeJsTypeScript-Challenges-10/blob/main/arts/Art%20Go%20Restaurant%20%20movbile%20(4).png)
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactNativeJsTypeScript-Challenges-10/blob/main/arts/Art%20Go%20Restaurant%20%20movbile%20(5).png)
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactNativeJsTypeScript-Challenges-10/blob/main/arts/Art%20Go%20Restaurant%20%20movbile%20(6).png)
+
